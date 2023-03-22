@@ -5,7 +5,7 @@ Package multiresolver allows you to Dial to multiple hosts/IPs as a single Clien
 Make sure to import this package:
 
 ```go
-import _ "github.com/Jille/grpc-multi-resolver"
+import _ "github.com/rustwizard/grpc-multi-resolver"
 ```
 
 and then you can use it with grpc.Dial():
